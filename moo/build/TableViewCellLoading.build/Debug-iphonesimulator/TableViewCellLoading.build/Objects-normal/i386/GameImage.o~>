@@ -1,0 +1,10 @@
+/Users/corey/iPhone/TableViewCellLoading/Classes/GameImage.m: In function '-[GameImage initWithUrlString:]':
+/Users/corey/iPhone/TableViewCellLoading/Classes/GameImage.m:15: error: '_urlString' undeclared (first use in this function)
+/Users/corey/iPhone/TableViewCellLoading/Classes/GameImage.m:15: error: (Each undeclared identifier is reported only once
+/Users/corey/iPhone/TableViewCellLoading/Classes/GameImage.m:15: error: for each function it appears in.)
+/Users/corey/iPhone/TableViewCellLoading/Classes/GameImage.m: In function '-[GameImage dealloc]':
+/Users/corey/iPhone/TableViewCellLoading/Classes/GameImage.m:22: error: '_image' undeclared (first use in this function)
+/Users/corey/iPhone/TableViewCellLoading/Classes/GameImage.m:23: error: '_urlString' undeclared (first use in this function)
+/Users/corey/iPhone/TableViewCellLoading/Classes/GameImage.m: In function '-[GameImage image]':
+/Users/corey/iPhone/TableViewCellLoading/Classes/GameImage.m:28: error: '_image' undeclared (first use in this function)
+/Users/corey/iPhone/TableViewCellLoading/Classes/GameImage.m:29: warning: control reaches end of non-void function

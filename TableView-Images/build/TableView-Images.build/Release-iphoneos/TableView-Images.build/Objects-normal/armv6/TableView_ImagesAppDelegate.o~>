@@ -1,0 +1,8 @@
+/Users/corey/iPhone/probably-interactive-samples/TableView-Images/Classes/TableView_ImagesAppDelegate.m: In function '-[TableView_ImagesAppDelegate applicationDidFinishLaunching:]':
+/Users/corey/iPhone/probably-interactive-samples/TableView-Images/Classes/TableView_ImagesAppDelegate.m:18: error: '_viewController' undeclared (first use in this function)
+/Users/corey/iPhone/probably-interactive-samples/TableView-Images/Classes/TableView_ImagesAppDelegate.m:18: error: (Each undeclared identifier is reported only once
+/Users/corey/iPhone/probably-interactive-samples/TableView-Images/Classes/TableView_ImagesAppDelegate.m:18: error: for each function it appears in.)
+/Users/corey/iPhone/probably-interactive-samples/TableView-Images/Classes/TableView_ImagesAppDelegate.m:20: error: '_window' undeclared (first use in this function)
+/Users/corey/iPhone/probably-interactive-samples/TableView-Images/Classes/TableView_ImagesAppDelegate.m: In function '-[TableView_ImagesAppDelegate dealloc]':
+/Users/corey/iPhone/probably-interactive-samples/TableView-Images/Classes/TableView_ImagesAppDelegate.m:26: error: '_viewController' undeclared (first use in this function)
+/Users/corey/iPhone/probably-interactive-samples/TableView-Images/Classes/TableView_ImagesAppDelegate.m:27: error: '_window' undeclared (first use in this function)
